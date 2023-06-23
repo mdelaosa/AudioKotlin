@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioKotlin</string>
+    <string name="mute">MUTE</string>
+</resources>
